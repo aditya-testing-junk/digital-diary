@@ -1,5 +1,5 @@
 // === CONFIG ===
-const API_BASE_URL = 'https://your-backend.vercel.app/api'; // CHANGE THIS to your backend API base URL
+const API_BASE_URL = 'https://digital-diary-aditya-testing-junks-projects.vercel.app/api'; // CHANGE THIS to your backend API base URL
 
 // === UI Section Handlers ===
 function showLogin() {
